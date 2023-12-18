@@ -13,12 +13,21 @@ const Skills = () => {
           <br /> and enjoy bringing ideas to life in the browser.
         </h5>
         <div className="languages">
-          <h6>Languages I speak:</h6>
-          <p>
-            ReactJS, NextJS, Redux, Typescript, JavaScript/ES6, HTML/HTML5,
-            CSS/CSS3, Tailwind css, UI/UX Design Principles, Restful APIs,
-            Ajax and Version Control System
-          </p>
+          <h6>Skills:</h6>
+          <div className="skills-tech">
+            <p>ReactJS</p>
+            <p> NextJS</p>
+            <p>Redux</p>
+            <p>Typescript</p>
+            <p>JavaScript/ES6</p>
+            <p>HTML/HTML5</p>
+            <p>CSS/CSS3</p>
+            <p>Tailwind css</p>
+            <p>UI/UX Design Principles</p>
+            <p>Restful APIs</p>
+            <p>Ajax</p>
+            <p>Version Control System</p>
+          </div>
         </div>
       </div>
     </div>
