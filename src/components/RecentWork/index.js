@@ -13,7 +13,7 @@ const RecentWork = () => {
       <div className="recent-work-section">
         <h3>My Recent Work</h3>
         <p>Here are a few past projects I've worked on.</p>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 pt-10 sm:pt-12 md:pt-14 lg:pt-16 xl:pt-20">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 pt-10 sm:pt-12 md:pt-14 lg:pt-16 xl:pt-20">
           <div>
             <ProjectData
               mainImage={projectAlison}

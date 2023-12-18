@@ -92,7 +92,7 @@ body {
     @apply text-center text-base lg:text-lg xl:text-xl;
   }
   .projects-data {
-    @apply relative ease-in drop-shadow overflow-hidden rounded-[20px] cursor-pointer h-[396px] sm:h-[436px] md:h-[476px] lg:h-[526px] xl:h-[576px] max-w-[300px] md:max-w-[350px] mx-auto;
+    @apply relative ease-in drop-shadow overflow-hidden rounded-[20px] cursor-pointer h-[396px] sm:h-[436px] md:h-[476px] lg:h-[526px] xl:h-[576px] max-w-[223px] sm:max-w-[250px] md:max-w-[290px] lg:max-w-[350px] mx-auto;
   }
   .project-title {
     @apply text-center text-[22px] md:text-[24px] lg:text-[26px] xl:text-3xl font-medium py-5 font-bubblegum;
